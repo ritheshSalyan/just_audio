@@ -36,3 +36,6 @@ flutter:
       web:
         pluginClass: JustAudioPlugin
         fileName: just_audio_web.dart
+      windows:
+        pluginClass: JustAudioPlugin
+        fileName: just_audio_desktop.dart
